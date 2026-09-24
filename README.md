@@ -67,9 +67,9 @@ I work remotely with clients across Latin America. My goal is simple: turn ideas
     <tr>
       <td><strong>Front-End</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,vite" alt="Front-End" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Front-End" />
         <br />
-        <sub>HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Sass • Vite</sub>
+        <sub>HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS</sub>
       </td>
     </tr>
     <tr>
@@ -84,15 +84,15 @@ I work remotely with clients across Latin America. My goal is simple: turn ideas
     <tr>
       <td><strong>Diseño UX/UI y Gráfico</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Diseño" />
+        <img src="https://skillicons.dev/icons?i=ps,ai" alt="Diseño" />
         <br />
-        <sub>Figma • Photoshop • Illustrator</sub>
+        <sub>Photoshop • Illustrator</sub>
       </td>
     </tr>
     <tr>
       <td><strong>Backend y Automatización</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,py,docker" alt="Backend" />
+        <img src="https://skillicons.dev/icons?i=nodejs,docker" alt="Backend" />
         <br />
         <img src="https://img.shields.io/badge/n8n-Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
       </td>
@@ -100,9 +100,9 @@ I work remotely with clients across Latin America. My goal is simple: turn ideas
     <tr>
       <td><strong>Herramientas y Deploy</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare" alt="Herramientas" />
+        <img src="https://skillicons.dev/icons?i=github,vscode,vercel,cloudflare" alt="Herramientas" />
         <br />
-        <sub>Git • GitHub • VS Code • Vercel • Cloudflare</sub>
+        <sub>GitHub • VS Code • Vercel • Cloudflare</sub>
       </td>
     </tr>
   </tbody>
